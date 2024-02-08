@@ -1,0 +1,9 @@
+Character types:
+
+    Barbarian
+    
+    Wizard
+    
+    Druid 
+    
+    Rogue
