@@ -6,6 +6,21 @@ Character types:
     
     Druid 
     
-    Rogue :|
+    Rogue
+
+Attribute Types:
+    
+    combativeness
+
+    charisma
+
+    magic
+
+    lifestyle
+
+    intelligence
+
+    
+
 
 
