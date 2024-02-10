@@ -1,0 +1,18 @@
+.ad-side-left {
+    float: left;
+    background-color: blue;
+    color: white;
+    height: auto;
+
+
+
+}
+
+.ad-side-right {
+    float: right;
+    background-color: blue;
+    color: white;
+    height: auto;
+
+
+}
